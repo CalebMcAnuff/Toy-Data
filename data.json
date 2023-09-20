@@ -1,4 +1,4 @@
-        const dataset = [
+        [
     {"letter": "A", "frequency": 0.08167},
     {"letter": "B", "frequency": 0.01492},
     {"letter": "C", "frequency": 0.02782},
@@ -25,4 +25,4 @@
     {"letter": "X", "frequency": 0.0015},
     {"letter": "Y", "frequency": 0.01974},
     {"letter": "Z", "frequency": 0.00074}
-];
+]
